@@ -1,2 +1,2 @@
 # dulani
-My Github.io site. 
+My personal repo.
